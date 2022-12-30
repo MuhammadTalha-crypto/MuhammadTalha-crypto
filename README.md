@@ -5,9 +5,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/muhammadtalha01
 - 📫 See my Portfolio site: https://muhammadtalha-crypto.github.io
 - 👀 Checkout My Youtube Channel: https://www.youtube.com/c/MuhammadTalha678
-   
-   
-   | Google Code Jam'22 Qualifier 🏆 : Meta Hacker Cup Qualifier 🎖 : Top Rated DSA & Python Instructor @ Udemy 🏅 |
+
+| Google Code Jam'22 Qualifier 🏆 : Meta Hacker Cup Qualifier 🎖 : Top Rated DSA & Python Instructor @ Udemy 🏅 |
                                           
                                           | Top 6th Pakistani Advent Of Code 🎖 |
 <!---

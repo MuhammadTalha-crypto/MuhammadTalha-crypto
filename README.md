@@ -7,7 +7,8 @@
 - 👀 Checkout My Youtube Channel: https://www.youtube.com/c/MuhammadTalha678
    
    | Google Code Jam'22 Qualifier 🏆 | Meta Hacker Cup Qualifier 🎖 | Top Rated DSA & Python Instructor @ Udemy 🏅 |
-                                           | Top 6th Pakistani Advent Of Code 🎖 |
+                                          
+                                          | Top 6th Pakistani Advent Of Code 🎖 |
 <!---
 MuhammadTalha-crypto/MuhammadTalha-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

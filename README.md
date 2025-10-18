@@ -114,6 +114,11 @@ Clean I/O (`Case #x:`), sample harness, concise write-ups.
   <img src="assets/icons/git.svg" height="28" alt="Git" />
   <img src="assets/icons/github.svg" height="28" alt="GitHub" />
   <img src="assets/icons/latex.svg" height="28" alt="LaTeX" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cmake,make,git,github,linux,ubuntu,bash,vscode,neovim,docker&perline=12" height="32" alt="Core stack">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,scipy,pandas,matplotlib,jupyter,latex&perline=12" height="32" alt="ML & Vision">
+  <img src="assets/icons/faiss.svg" height="32" alt="FAISS">&nbsp;&nbsp;
+  <img src="assets/icons/pointcloud.svg" height="32" alt="Point Clouds / GPCC">
+  <img src="https://skillicons.dev/icons?i=nvidia,aws,gcp,cloudflare,githubactions&perline=12" height="32" alt="Infra">
 </p>
 </details>
 

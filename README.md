@@ -127,8 +127,38 @@ Clean I/O (`Case #x:`), sample harness, concise write-ups.
 ---
 
 ### 📫 Contact
-- Email: ⟦your@email⟧  
-- LinkedIn: ⟦link⟧  
-- X/Twitter: ⟦link⟧
+<!-- Contact: icons only -->
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:your@email" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="34" alt="Email">
+  </a>&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/your-id" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="34" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+
+  <!-- X / Twitter -->
+  <a href="https://x.com/your-id" title="X / Twitter">
+    <img src="https://skillicons.dev/icons?i=twitter" height="34" alt="X">
+  </a>&nbsp;&nbsp;
+
+  <!-- Google Scholar (local) -->
+  <a href="https://scholar.google.com/citations?user=YOUR_ID" title="Google Scholar">
+    <img src="assets/icons/scholar.svg" height="34" alt="Google Scholar">
+  </a>&nbsp;&nbsp;
+
+  <!-- ORCID (local) -->
+  <a href="https://orcid.org/0000-0000-0000-0000" title="ORCID">
+    <img src="assets/icons/orcid.svg" height="34" alt="ORCID">
+  </a>&nbsp;&nbsp;
+
+  <!-- (Optional) ResearchGate (local) -->
+  <!-- <a href="https://www.researchgate.net/profile/Your-Name" title="ResearchGate">
+    <img src="assets/icons/researchgate.svg" height="34" alt="ResearchGate">
+  </a> -->
+</p>
+
 
 <sub>Accent color: `#0ea5e9` (swap to `#7c3aed` purple if preferred). Keep it consistent across badges.</sub>

@@ -99,19 +99,29 @@ Clean I/O (`Case #x:`), sample harness, concise write-ups.
 
 <!-- Row 1: Core / Systems -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cmake,make,git,github,linux,ubuntu,bash,vscode,neovim&perline=12" height="32" alt="Core stack">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cmake,make,git,github,linux,ubuntu,bash,vscode,neovim,docker&perline=12" height="32" alt="Core stack">
   <br/>
   <!-- Row 2: ML / Vision -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,scipy,pandas,matplotlib,jupyter,latex&perline=12" height="32" alt="ML & Vision">
   <br/>
-  <!-- Row 3: Infra / Cloud (keep only what you use) -->
-  <img src="https://skillicons.dev/icons?i=nvidia,aws,gcp,cloudflare,githubactions&perline=12" height="32" alt="Infra">
+  <!-- Row 3: Infra / Cloud -->
+  <img src="https://skillicons.dev/icons?i=nvidia,githubactions,aws,gcp,cloudflare&perline=12" height="32" alt="Infra">
 </p>
 
-<!-- Local add-ons (only two; these never break if files are present) -->
+<!-- Row 4: Extras not on skillicons (use badges so they NEVER break) -->
 <p align="center">
-  <img src="assets/icons/faiss.svg" height="32" alt="FAISS">&nbsp;&nbsp;
-  <img src="assets/icons/pointcloud.svg" height="32" alt="Point Clouds / GPCC">
+  <!-- FAISS -->
+  <a href="https://github.com/facebookresearch/faiss" title="FAISS">
+    <img src="https://img.shields.io/badge/FAISS-0ea5e9?style=for-the-badge&labelColor=111&color=0ea5e9" height="24" alt="FAISS">
+  </a>&nbsp;
+  <!-- GPCC / Point Clouds -->
+  <a href="https://github.com/MPEGGroup/mpeg-pcc-tmc13" title="MPEG GPCC">
+    <img src="https://img.shields.io/badge/MPEG%20GPCC-555?style=for-the-badge&labelColor=111&color=555" height="24" alt="MPEG GPCC">
+  </a>&nbsp;
+  <!-- Open3D (if you use it) -->
+  <a href="http://www.open3d.org/" title="Open3D">
+    <img src="https://img.shields.io/badge/Open3D-2688D4?style=for-the-badge&labelColor=111&color=2688D4" height="24" alt="Open3D">
+  </a>
 </p>
 
 

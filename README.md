@@ -99,13 +99,13 @@ Clean I/O (`Case #x:`), sample harness, concise write-ups.
 
 <!-- Row 1: Core / Systems -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cmake,git,github,linux,ubuntu,bash,vscode,neovim,docker&perline=36" height="32" alt="Core stack">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cmake,git,github,linux,ubuntu,bash,vscode,neovim,docker&perline=36" height="52" alt="Core stack">
   <br/>
   <!-- Row 2: ML / Vision -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,scipy,pandas,matplotlib,jupyter,latex&perline=36" height="32" alt="ML & Vision">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,scipy,pandas,matplotlib,jupyter,latex&perline=36" height="52" alt="ML & Vision">
   <br/>
   <!-- Row 3: Infra / Cloud -->
-  <img src="https://skillicons.dev/icons?i=nvidia,githubactions,aws,gcp,cloudflare&perline=12" height="32" alt="Infra">
+  <img src="https://skillicons.dev/icons?i=nvidia,githubactions,aws,gcp,cloudflare&perline=12" height="52" alt="Infra">
 </p>
 
 <!-- Not on skillicons: use reliable pills so they never break -->

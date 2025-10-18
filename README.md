@@ -1,134 +1,155 @@
-<!-- Banner -->
+<!-- HERO -->
 <p align="center">
-  <img src="assets/banner.png" alt="Muhammad Talha — 3DGS • Compression • ML Systems" width="100%" />
+  <img src="assets/banner.png" alt="Muhammad Talha — 3DGS • Compression • ML Systems" width="100%">
 </p>
 
 <h1 align="center">Muhammad Talha</h1>
 <p align="center">
-  <b>PhD @ UMKC</b> · 3D Gaussian Splatting • Compression • ML Systems · Qualcomm R&D (’25)
+  PhD @ UMKC · 3D Gaussian Splatting • Compression • ML Systems · Qualcomm R&D (’25)
 </p>
 
+<!-- QUICK ACTIONS -->
+<p align="center">
+  <a href="mailto:⟦your@email⟧"><img src="assets/icons/email.svg" height="26" alt="email"></a>&nbsp;&nbsp;
+  <a href="⟦your-linkedin⟧"><img src="assets/icons/linkedin.svg" height="26" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="⟦your-x⟧"><img src="assets/icons/x.svg" height="26" alt="X/Twitter"></a>
+</p>
+
+<!-- STATS / BADGES (tight) -->
 <p align="center">
   <a href="https://github.com/MuhammadTalha-crypto?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/MuhammadTalha-crypto?style=for-the-badge&label=Followers&color=0ea5e9" />
+    <img alt="Followers" src="https://img.shields.io/github/followers/MuhammadTalha-crypto?label=Followers&style=flat-square&color=0ea5e9">
   </a>
-  <a href="mailto:⟦your@email⟧">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="⟦your-linkedin⟧">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-3DGS%20Compression-0ea5e9?style=flat-square">
+  <img alt="Stack" src="https://img.shields.io/badge/Python%20%7C%20C%2B%2B%20%7C%20PyTorch-111?style=flat-square">
 </p>
 
+<!-- NAV -->
 <p align="center">
-  <a href="#-about">About</a> ·
-  <a href="#-research-focus">Research Focus</a> ·
-  <a href="#-research-papers">Research Papers</a> ·
-  <a href="#-patents--ip">Patents & IP</a> ·
-  <a href="#-research-projects">Research Projects</a> ·
-  <a href="#-awards--achievements">Awards & Achievements</a> ·
-  <a href="#-tech-stack">Tech Stack</a> ·
-  <a href="#-contact">Contact</a>
+  <a href="#research">Research</a> ·
+  <a href="#papers">Papers</a> ·
+  <a href="#patents">Patents</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#stack">Tech</a>
 </p>
 
 ---
 
-### 👋 About
-- I work on **dynamic 3D Gaussian Splatting (3DGS) compression**: inter-prediction, vector quantization, and feature-aware coding for AR/VR & volumetric video.
-- Built **InterGS**: bilateral + KNN hybrid predictors, per-group bit budgets, GPCC/LZMA integration, multi-frame chaining (I/P).
-- Obsessive about **reproducibility**: RD curves (BD-Rate/PSNR), decode FPS, codebook dumps, and clean harnesses.
+<!-- RESEARCH (visual cards, very short) -->
+<h3 id="research">🔬 Research</h3>
+
+<table>
+<tr>
+  <td width="33%">
+    <img src="assets/icons/project.svg" height="22" alt=""> <b>InterGS</b><br/>
+    Inter-frame prediction for dynamic 3DGS (bilateral+KNN). Residual coding, I/P chaining.
+  </td>
+  <td width="33%">
+    <img src="assets/icons/project.svg" height="22" alt=""> <b>InterGS-VQ</b><br/>
+    Feature-aware VQ for SH (DC/AC), per-group bit budgets, stable PSNR across frames.
+  </td>
+  <td width="33%">
+    <img src="assets/icons/project.svg" height="22" alt=""> <b>CompGS++ Parity</b><br/>
+    Fair baselines, RD tooling (BD-Rate/PSNR), decode-time and entropy breakdowns.
+  </td>
+</tr>
+</table>
 
 ---
 
-### 🎯 Research Focus
-- **Temporal prediction for 3DGS**: per-Gaussian inter-frame predictors and mode selection streams.  
-- **Quantization**: VQ for SH_DC/SH_AC (PCA/whitening, K-means), scalar baselines.  
-- **Geometry & entropy**: GPCC geometry, LZMA/7-Zip, per-group bit allocation.  
-- **Evaluation**: BD-Rate vs baselines, PSNR stability across frames, ms/gaussian → FPS.
+<!-- PAPERS (two-column with icons) -->
+<h3 id="papers">📄 Papers</h3>
+
+<table>
+<tr>
+  <td width="50%">
+    <img src="assets/icons/paper.svg" height="20" alt="paper"> <b>InterGS: Inter-Frame Prediction for Dynamic 3D Gaussian Splatting</b><br/>
+    <i>VCIP 2025 — accepted</i><br/>
+    <sub>Predict GS attributes from an I-frame; send residuals only. Dual predictor (bilateral + KNN) with per-Gaussian mode selection.</sub><br/>
+    ⟦PDF⟧ · ⟦Poster⟧
+  </td>
+  <td width="50%">
+    <img src="assets/icons/paper.svg" height="20" alt="paper"> <b>InterGS-VQ: Feature-Aware VQ for Dynamic 3DGS</b><br/>
+    <i>DCC 2026 — in preparation</i><br/>
+    <sub>VQ codebooks for SH_DC/SH_AC, scalar for opacity/scale/rot; BD-Rate gains with PSNR stability on multi-frame chains.</sub><br/>
+    ⟦Draft⟧
+  </td>
+</tr>
+</table>
 
 ---
 
-### 📄 Research Papers
-> Add DOIs/arXiv as they go live. Keep titles concise and outcome-oriented.
+<!-- PATENTS -->
+<h3 id="patents">🧠 Patents</h3>
 
-| Year | Venue | Title | Status | Links |
-|-----:|:-----:|:------|:------:|:------|
-| 2025 | VCIP | **InterGS: Inter-Frame Prediction for Dynamic 3D Gaussian Splatting** | accepted | ⟦PDF⟧ ⟦Poster⟧ |
-| 2026 | DCC (target) | **InterGS-VQ: Feature-Aware Vector Quantization for Dynamic 3DGS** | in prep | ⟦draft⟧ |
-
-<details>
-<summary><b>Mini abstracts</b></summary>
-
-- **InterGS (VCIP 2025).** Predict current-frame Gaussian attributes from a reference I-frame; transmit residuals only. Dual predictor (bilateral + KNN) with per-Gaussian mode selection cuts bitrate while preserving photorealistic quality.
-
-- **InterGS-VQ (DCC 2026, target).** Vector-quantize SH_DC/SH_AC with feature-aware codebooks, keeping opacity/scale/rot scalar. Gains in BD-Rate with stable PSNR across multi-frame chains.
-</details>
-
----
-
-### 🧠 Patents & IP
-| ID / Ref | Title | Area | Status |
-|:--------:|:------|:-----|:------:|
-| ⟦IDF 2507738⟧ | **Dynamic Inter-Prediction for 3D Gaussian Splatting** | 3DGS compression | filed / pending |
-| ⟦IDF …⟧ | **Per-Group VQ for SH/DC+AC with Predictor Choice Streams** | quantization | drafting |
+<table>
+<tr>
+  <td width="50%">
+    <img src="assets/icons/patent.svg" height="20" alt="patent"> <b>Dynamic Inter-Prediction for 3D Gaussian Splatting</b><br/>
+    <sub>IDF ⟦2507738⟧ — filed/pending</sub>
+  </td>
+  <td width="50%">
+    <img src="assets/icons/patent.svg" height="20" alt="patent"> <b>Per-Group VQ with Predictor Choice Streams</b><br/>
+    <sub>IDF ⟦…⟧ — drafting</sub>
+  </td>
+</tr>
+</table>
 
 ---
 
-### 🔬 Research Projects
-> Pin these three (Customize Profile → Pinned).
+<!-- PROJECTS (visual tiles to pin) -->
+<h3 id="projects">📦 Featured Projects</h3>
 
-#### 🟦 InterGS-VQ
-Vector-quantization for SH coefficients, per-group bit budgets, multi-frame chaining (I + P). Includes RD scripts, predictor traces, and codebook dumps.
+<table>
+<tr>
+  <td width="33%">
+    <b>Meta Hacker Cup 2025 — Round_1</b><br/>
+    Clean I/O (<code>Case #x:</code>), harness, and notes.<br/>
+    <sub>Python · Contest</sub>
+  </td>
+  <td width="33%">
+    <b>InterGS-VQ</b><br/>
+    VQ for SH, per-group bits, RD curves.<br/>
+    <sub>PyTorch · FAISS · GPCC</sub>
+  </td>
+  <td width="33%">
+    <b>CompGS++ Comparisons</b><br/>
+    Baseline parity & BD-Rate utilities.<br/>
+    <sub>Python · Matplotlib</sub>
+  </td>
+</tr>
+</table>
 
-#### 🟩 CompGS++ Comparisons
-Baseline parity, BD-Rate utility, plotting kit; geometry caching and consistent PSNR evaluation across rate points (r01–r05/06).
-
-#### 🟨 Meta Hacker Cup 2025 — Round_1 (Python)
-Clean I/O (`Case #x:`), sample harness, concise write-ups.
+> Pin these three in your profile → **Customize profile → Pinned**.
 
 ---
 
-### 🏆 Awards & Achievements
-- **Meta Hacker Cup 2025** participant (Round 1 solutions public).  
-- **Qualcomm Multimedia R&D** (’25): inter-prediction for 3DGS (patent-pending).  
-- **VCIP 2025** paper accepted; **DCC 2026** extension in progress.
+<!-- STACK (logo wall) -->
+<h3 id="stack">🧰 Tech Stack</h3>
 
----
-
-### 🧰 Tech Stack
 <p>
-  <!-- Hosted row (fast) -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,faiss,opencv,cmake,linux,git,github,latex&perline=10" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,faiss,opencv,cmake,linux,git,github,latex&perline=10" alt="logos">
 </p>
 
-<details>
-<summary><b>Local icon fallback (never breaks)</b></summary>
+<!-- optional local fallback row (hide if not needed) -->
+<!--
 <p>
-  <img src="assets/icons/python.svg" height="28" alt="Python" />
-  <img src="assets/icons/cplusplus.svg" height="28" alt="C++" />
-  <img src="assets/icons/pytorch.svg" height="28" alt="PyTorch" />
-  <img src="assets/icons/faiss.svg" height="28" alt="FAISS" />
-  <img src="assets/icons/opencv.svg" height="28" alt="OpenCV" />
-  <img src="assets/icons/cmake.svg" height="28" alt="CMake" />
-  <img src="assets/icons/linux.svg" height="28" alt="Linux" />
-  <img src="assets/icons/git.svg" height="28" alt="Git" />
-  <img src="assets/icons/github.svg" height="28" alt="GitHub" />
-  <img src="assets/icons/latex.svg" height="28" alt="LaTeX" />
+  <img src="assets/icons/python.svg" height="26" alt="Python">&nbsp;
+  <img src="assets/icons/cplusplus.svg" height="26" alt="C++">&nbsp;
+  <img src="assets/icons/pytorch.svg" height="26" alt="PyTorch">&nbsp;
+  <img src="assets/icons/faiss.svg" height="26" alt="FAISS">&nbsp;
+  <img src="assets/icons/opencv.svg" height="26" alt="OpenCV">&nbsp;
+  <img src="assets/icons/cmake.svg" height="26" alt="CMake">&nbsp;
+  <img src="assets/icons/linux.svg" height="26" alt="Linux">&nbsp;
+  <img src="assets/icons/git.svg" height="26" alt="Git">&nbsp;
+  <img src="assets/icons/github.svg" height="26" alt="GitHub">&nbsp;
+  <img src="assets/icons/latex.svg" height="26" alt="LaTeX">
 </p>
-</details>
+-->
 
 ---
 
-### 📊 Reproducibility & Metrics
-- **RD curves**: BD-Rate/PSNR with matched rate points.  
-- **Decode performance**: ms/gaussian + FPS targets per sequence.  
-- **Artifacts**: quant configs, codebook dumps, predictor-choice streams, geometry bytes.
-
----
-
-### 📫 Contact
-- Email: ⟦your@email⟧  
-- LinkedIn: ⟦link⟧  
-- X/Twitter: ⟦link⟧
-
-<sub>Accent color: `#0ea5e9` (swap to `#7c3aed` purple if preferred). Keep it consistent across badges.</sub>
+<!-- SUPER COMPACT FOOTER -->
+<p align="center">
+  <sub>Accent color: <code>#0ea5e9</code> · Minimal text, maximum signal.</sub>
+</p>

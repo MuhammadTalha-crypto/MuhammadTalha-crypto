@@ -161,4 +161,5 @@ Clean I/O (`Case #x:`), sample harness, concise write-ups.
 </p>
 
 
+
 <sub>Accent color: `#0ea5e9` (swap to `#7c3aed` purple if preferred). Keep it consistent across badges.</sub>

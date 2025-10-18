@@ -95,32 +95,25 @@ Clean I/O (`Case #x:`), sample harness, concise write-ups.
 
 ---
 
-### 🧰 Tech Stack
-<p>
-  <!-- Hosted row (fast) -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,faiss,opencv,cmake,linux,git,github,latex&perline=10" alt="stack" />
-</p>
+<h3 id="stack">🧰 Tech Stack</h3>
 
-<details>
-<summary><b>Local icon fallback (never breaks)</b></summary>
-<p>
-  <img src="assets/icons/python.svg" height="28" alt="Python" />
-  <img src="assets/icons/cplusplus.svg" height="28" alt="C++" />
-  <img src="assets/icons/pytorch.svg" height="28" alt="PyTorch" />
-  <img src="assets/icons/faiss.svg" height="28" alt="FAISS" />
-  <img src="assets/icons/opencv.svg" height="28" alt="OpenCV" />
-  <img src="assets/icons/cmake.svg" height="28" alt="CMake" />
-  <img src="assets/icons/linux.svg" height="28" alt="Linux" />
-  <img src="assets/icons/git.svg" height="28" alt="Git" />
-  <img src="assets/icons/github.svg" height="28" alt="GitHub" />
-  <img src="assets/icons/latex.svg" height="28" alt="LaTeX" />
-  <img src="https://skillicons.dev/icons?i=python,cpp,cmake,make,git,github,linux,ubuntu,bash,vscode,neovim,docker&perline=12" height="32" alt="Core stack">
+<!-- Row 1: Core / Systems -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cmake,make,git,github,linux,ubuntu,bash,vscode,neovim&perline=12" height="32" alt="Core stack">
+  <br/>
+  <!-- Row 2: ML / Vision -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,scipy,pandas,matplotlib,jupyter,latex&perline=12" height="32" alt="ML & Vision">
-  <img src="assets/icons/faiss.svg" height="32" alt="FAISS">&nbsp;&nbsp;
-  <img src="assets/icons/pointcloud.svg" height="32" alt="Point Clouds / GPCC">
+  <br/>
+  <!-- Row 3: Infra / Cloud (keep only what you use) -->
   <img src="https://skillicons.dev/icons?i=nvidia,aws,gcp,cloudflare,githubactions&perline=12" height="32" alt="Infra">
 </p>
-</details>
+
+<!-- Local add-ons (only two; these never break if files are present) -->
+<p align="center">
+  <img src="assets/icons/faiss.svg" height="32" alt="FAISS">&nbsp;&nbsp;
+  <img src="assets/icons/pointcloud.svg" height="32" alt="Point Clouds / GPCC">
+</p>
+
 
 ---
 

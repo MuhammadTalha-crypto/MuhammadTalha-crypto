@@ -26,6 +26,7 @@
   <a href="#-research-papers">Research Papers</a> ·
   <a href="#-patents--ip">Patents & IP</a> ·
   <a href="#-research-projects">Research Projects</a> ·
+  <a href="#-awards--achievements">Awards & Achievements</a> ·
   <a href="#-tech-stack">Tech Stack</a> ·
   <a href="#-contact">Contact</a>
 </p>
@@ -33,35 +34,39 @@
 ---
 
 ### 👋 About
-- Researching **dynamic 3D Gaussian Splatting compression** (inter-prediction, vector quantization) for AR/VR & volumetric video.  
-- Built **InterGS**: bilateral + KNN hybrid predictors, per-group bit budgets, GPCC/LZMA integration, and multi-frame chaining.  
-- I like clean **RD curves (BD-Rate/PSNR)**, reproducible scripts, and decode-time profiling.
+- I work on **dynamic 3D Gaussian Splatting (3DGS) compression**: inter-prediction, vector quantization, and feature-aware coding for AR/VR & volumetric video.
+- Built **InterGS**: bilateral + KNN hybrid predictors, per-group bit budgets, GPCC/LZMA integration, multi-frame chaining (I/P).
+- Obsessive about **reproducibility**: RD curves (BD-Rate/PSNR), decode FPS, codebook dumps, and clean harnesses.
 
 ---
 
 ### 🎯 Research Focus
-- **Temporal prediction for 3DGS**: feature-level inter-frame prediction (I/P chains), predictor selection streams.
-- **Quantization**: residual scalar/VQ (codebooks for SH_DC/SH_AC), PCA/whitening, K-means codebooks.
-- **Geometry & entropy**: GPCC geometry coding, LZMA/7-Zip integration, per-group bit budgeting.
-- **Evaluation**: BD-Rate vs baselines, PSNR stability across frames, decode FPS targets.
+- **Temporal prediction for 3DGS**: per-Gaussian inter-frame predictors and mode selection streams.  
+- **Quantization**: VQ for SH_DC/SH_AC (PCA/whitening, K-means), scalar baselines.  
+- **Geometry & entropy**: GPCC geometry, LZMA/7-Zip, per-group bit allocation.  
+- **Evaluation**: BD-Rate vs baselines, PSNR stability across frames, ms/gaussian → FPS.
 
 ---
 
 ### 📄 Research Papers
-> Add DOI/arXiv links as they go live. Keep titles concise and outcome-oriented.
+> Add DOIs/arXiv as they go live. Keep titles concise and outcome-oriented.
 
 | Year | Venue | Title | Status | Links |
 |-----:|:-----:|:------|:------:|:------|
-| 2025 | VCIP | **InterGS: Inter-Frame Prediction for Dynamic 3D Gaussian Splatting** | accepted (camera-ready) | ⟦PDF⟧ ⟦Poster⟧ |
-| 2026 | DCC (target) | **InterGS-VQ: Feature-Aware Vector Quantization for Dynamic 3DGS** | in preparation | ⟦draft⟧ |
+| 2025 | VCIP | **InterGS: Inter-Frame Prediction for Dynamic 3D Gaussian Splatting** | accepted | ⟦PDF⟧ ⟦Poster⟧ |
+| 2026 | DCC (target) | **InterGS-VQ: Feature-Aware Vector Quantization for Dynamic 3DGS** | in prep | ⟦draft⟧ |
 
-> Want me to add a mini abstract block per paper? I can scaffold them under collapsible sections.
+<details>
+<summary><b>Mini abstracts</b></summary>
+
+- **InterGS (VCIP 2025).** Predict current-frame Gaussian attributes from a reference I-frame; transmit residuals only. Dual predictor (bilateral + KNN) with per-Gaussian mode selection cuts bitrate while preserving photorealistic quality.
+
+- **InterGS-VQ (DCC 2026, target).** Vector-quantize SH_DC/SH_AC with feature-aware codebooks, keeping opacity/scale/rot scalar. Gains in BD-Rate with stable PSNR across multi-frame chains.
+</details>
 
 ---
 
 ### 🧠 Patents & IP
-> Use the notes you already have (e.g., “IDF 2507738”) and update as they progress.
-
 | ID / Ref | Title | Area | Status |
 |:--------:|:------|:-----|:------:|
 | ⟦IDF 2507738⟧ | **Dynamic Inter-Prediction for 3D Gaussian Splatting** | 3DGS compression | filed / pending |
@@ -70,30 +75,34 @@
 ---
 
 ### 🔬 Research Projects
-> Pin these repos to your profile (Customize Profile → Pinned).
+> Pin these three (Customize Profile → Pinned).
 
 #### 🟦 InterGS-VQ
-- Vector-quantization for SH coefficients, per-group bit allocation, multi-frame chaining (I + P frames).  
-- Reproducible RD scripts, codebook dumps, predictor choice traces.
+Vector-quantization for SH coefficients, per-group bit budgets, multi-frame chaining (I + P). Includes RD scripts, predictor traces, and codebook dumps.
 
 #### 🟩 CompGS++ Comparisons
-- Baseline parity, BD-Rate utility, and plotting kit for fair comparisons.  
-- Geometry caching, consistent PSNR eval, scripts for rate points r01–r05/r06.
+Baseline parity, BD-Rate utility, plotting kit; geometry caching and consistent PSNR evaluation across rate points (r01–r05/06).
 
 #### 🟨 Meta Hacker Cup 2025 — Round_1 (Python)
-- Clean I/O (`Case #x:`), test harness (`tools/test.py`), samples, and concise write-ups.
+Clean I/O (`Case #x:`), sample harness, concise write-ups.
+
+---
+
+### 🏆 Awards & Achievements
+- **Meta Hacker Cup 2025** participant (Round 1 solutions public).  
+- **Qualcomm Multimedia R&D** (’25): inter-prediction for 3DGS (patent-pending).  
+- **VCIP 2025** paper accepted; **DCC 2026** extension in progress.
 
 ---
 
 ### 🧰 Tech Stack
 <p>
-  <!-- Reliable hosted icons -->
+  <!-- Hosted row (fast) -->
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,faiss,opencv,cmake,linux,git,github,latex&perline=10" alt="stack" />
 </p>
 
 <details>
-<summary>Local icon fallback (never breaks)</summary>
-
+<summary><b>Local icon fallback (never breaks)</b></summary>
 <p>
   <img src="assets/icons/python.svg" height="28" alt="Python" />
   <img src="assets/icons/cplusplus.svg" height="28" alt="C++" />
@@ -106,15 +115,14 @@
   <img src="assets/icons/github.svg" height="28" alt="GitHub" />
   <img src="assets/icons/latex.svg" height="28" alt="LaTeX" />
 </p>
-
 </details>
 
 ---
 
-### 🧪 Reproducibility & Metrics
-- **RD curves**: BD-Rate/PSNR plotted with matched rate points.  
-- **Decode performance**: ms/gaussian + FPS targets, per-sequence breakdowns.  
-- **Logs & Artifacts**: codebook dumps, quant configs, predictor-choice streams, geometry bytes.
+### 📊 Reproducibility & Metrics
+- **RD curves**: BD-Rate/PSNR with matched rate points.  
+- **Decode performance**: ms/gaussian + FPS targets per sequence.  
+- **Artifacts**: quant configs, codebook dumps, predictor-choice streams, geometry bytes.
 
 ---
 
@@ -122,3 +130,5 @@
 - Email: ⟦your@email⟧  
 - LinkedIn: ⟦link⟧  
 - X/Twitter: ⟦link⟧
+
+<sub>Accent color: `#0ea5e9` (swap to `#7c3aed` purple if preferred). Keep it consistent across badges.</sub>

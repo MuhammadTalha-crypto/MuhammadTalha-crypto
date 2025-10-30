@@ -101,6 +101,8 @@
 ### 🧠 Rendered View Point After Decoding using InterGS 
 <img align="center" src="./render_-ezgif.com-video-to-gif-converter.gif" width="1024" alt="InterGS demo 1">
 ---
+### 📊 InterGS Results
+<img align="center" src="./results.png" width="1024" alt="InterGS demo 1">
 
 ### 🔬 Research Projects
 > Pin these three (Customize Profile → Pinned).
@@ -149,10 +151,6 @@
 - **RD curves**: BD-Rate/PSNR with matched rate points.  
 - **Decode performance**: ms/gaussian + FPS targets per sequence.  
 - **Artifacts**: quant configs, codebook dumps, predictor-choice streams, geometry bytes.
----
-
-### 📊 InterGS Results
-<img align="center" src="./results.png" width="1024" alt="InterGS demo 1">
 ---
 
 ### 📫 Contact

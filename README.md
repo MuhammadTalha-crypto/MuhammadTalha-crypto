@@ -13,10 +13,10 @@
   <a href="https://github.com/MuhammadTalha-crypto?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/MuhammadTalha-crypto?style=for-the-badge&label=Followers&color=0ea5e9" />
   </a>
-  <a href="mailto:⟦your@email⟧">
+  <a href="mailto:mtgcf@umsystem.edu">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="⟦your-linkedin⟧">
+  <a href="https://www.linkedin.com/in/engrtm/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

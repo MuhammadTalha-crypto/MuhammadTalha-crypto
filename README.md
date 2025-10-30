@@ -32,6 +32,20 @@
 </p>
 
 <!-- Right-side GIFs -->
+
+<table>
+  <tr>
+    <td>
+
+### 👋 About
+- I work on **dynamic 3D Gaussian Splatting (3DGS) compression**: inter-prediction, and feature-aware coding for AR/VR & 3D immersive/volumetric video.
+- Developed InterGS: First-ever & light-weight inter-prediction Framework for 3DGS (Gaussian Splatting) for All tracked, Semi-Tracked and Untracked Dynamic 3D Sequences for potential use in real-time AR/VR, immersive video applications.
+- Developed MUSCON: First-ever attributes-based deblocking framework for 3D point clouds to remove coding-induced artifacts.
+- Developed J-SGFT: First-ever attributes-based deblocking framework in purely frequency domain that beats previous SOTA algorithms.
+
+    </td>
+    <td width="260" align="right">
+
 <img align="right" src="https://i.pinimg.com/originals/26/7b/5f/267b5f806c7eec3d72058a597a06adb1.gif" width="220" alt="InterGS demo 1">
 <br clear="right">
 <img align="right" src="https://i.pinimg.com/originals/26/7b/5f/267b5f806c7eec3d72058a597a06adb1.gif" width="220" alt="InterGS demo 1">   
@@ -39,16 +53,11 @@
 <img align="right" src="https://i.pinimg.com/originals/26/7b/5f/267b5f806c7eec3d72058a597a06adb1.gif" width="220" alt="InterGS demo 3">
 <br clear="right">
 
----
-
-### 👋 About
-- I work on **dynamic 3D Gaussian Splatting (3DGS) compression**: inter-prediction, and feature-aware coding for AR/VR & 3D immersive/volumetric video.
-- Developed InterGS: First-ever & light-weight inter-prediction Framework for 3DGS (Gaussian Splatting) for All tracked, Semi-Tracked and Untracked Dynamice 3D Sequences for Potential use in real-time AR/VR, immersive video applications.   
-- Developed MUSCON: First-ever attributes based deblocing framework for 3D Point clouds to remove the coding induced artifacts.
-- Developed J-SGFT: First-ever attributes-based Deblocing framework in purely frequency domain that beats all the previous SOTA algorithms.
+    </td>
+  </tr>
+</table>
 
 ---
-
 ### 🎯 Research Focus
 - **Temporal prediction for 3DGS**: per-Gaussian inter-frame predictors and mode selection streams.  
 - **Quantization**: VQ for SH_DC/SH_AC (PCA/whitening, K-means), scalar baselines.  

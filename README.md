@@ -34,8 +34,8 @@
 ---
 
 ### 👋 About
-- I work on **dynamic 3D Gaussian Splatting (3DGS) compression**: inter-prediction, vector quantization, and feature-aware coding for AR/VR & volumetric video.
-- Built **InterGS**: bilateral + KNN hybrid predictors, per-group bit budgets, GPCC/LZMA integration, multi-frame chaining (I/P).
+- I work on **dynamic 3D Gaussian Splatting (3DGS) compression**: inter-prediction, and feature-aware coding for AR/VR & 3D immersive/volumetric video.
+- Developed First-ever lightweight interprediction framework for 3D Gaussian Splatting (3DGS) @ <b> Qualcomm </b> that works efficiently on any type of trained models including INRIA, or MPEG. {Patent Pending}
 - Obsessive about **reproducibility**: RD curves (BD-Rate/PSNR), decode FPS, codebook dumps, and clean harnesses.
 
 ---

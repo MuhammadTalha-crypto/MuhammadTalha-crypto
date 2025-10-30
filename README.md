@@ -36,9 +36,9 @@
 <table>
   <tr>
     <td>
-### 👋 Profile
-- Ph.D. Student in Electrical & Computer Engineering specializing in 3D Gaussian Splatting compression, inter-frame prediction for dynamic 3D video, and point cloud compression for real-time AR/VR streaming. Patent-pending work at Qualcomm on low-bitrate dynamic GS coding (70–80% rate reduction). Have Experience in 33D Point cloud Denoising, Deblocing, Signal Processing, and Computer vision. Actively seeking research internships in 3D Gaussian Splatting compression, dynamic 3D scene/immersive video coding, and point cloud compression/Deblocking for AR/VR applications.
+
 ### 👋 About
+- Ph.D. Student in Electrical & Computer Engineering specializing in 3D point Cloud compression, inter and intra-frame 3D Gaussian Splatting compression, Point Cloud Denoising/Deblocking, Graph Fourier Processing, and Machine Learning Optimization. 
 - I work on **dynamic 3D Gaussian Splatting (3DGS) compression**: inter-prediction, and feature-aware coding for AR/VR & 3D immersive/volumetric video.
 - Developed InterGS: First-ever & light-weight inter-prediction Framework for 3DGS (Gaussian Splatting) for All tracked, Semi-Tracked and Untracked Dynamic 3D Sequences for potential use in real-time AR/VR, immersive video applications.
 - Developed MUSCON: First-ever attributes-based deblocking framework for 3D point clouds to remove coding-induced artifacts.

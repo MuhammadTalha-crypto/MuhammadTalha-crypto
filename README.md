@@ -32,7 +32,7 @@
 </p>
 
 <!-- Right-side GIFs -->
-<img align="right" src="[./assets/demo1.gif](https://miro.medium.com/1*TiXFKA-o06OwxJIg4LXt-A.gif)" width="220" alt="InterGS demo 1">
+<img align="right" src="https://miro.medium.com/1*TiXFKA-o06OwxJIg4LXt-A.gif" width="220" alt="InterGS demo 1">
 <img align="right" src="./assets/demo2.gif" width="220" alt="InterGS demo 2">
 <img align="right" src="./assets/demo3.gif" width="220" alt="InterGS demo 3">
 

@@ -35,9 +35,9 @@
 
 ### 👋 About
 - I work on **dynamic 3D Gaussian Splatting (3DGS) compression**: inter-prediction, and feature-aware coding for AR/VR & 3D immersive/volumetric video.
-- Developed First-ever & light-weight inter-prediction Framework for 3DGS (Gaussian Splatting) for All tracked, Semi-Tracked and Untracked Dynamice 3D Sequences for Potential use in real-time AR/VR, immersive video applications.   
-- Developed First-ever attributes based deblocing framework for 3D Point clouds to remove the coding induced artifacts.
-- 
+- Developed InterGS: First-ever & light-weight inter-prediction Framework for 3DGS (Gaussian Splatting) for All tracked, Semi-Tracked and Untracked Dynamice 3D Sequences for Potential use in real-time AR/VR, immersive video applications.   
+- Developed MUSCON: First-ever attributes based deblocing framework for 3D Point clouds to remove the coding induced artifacts.
+- Developed J-SGFT: First-ever attributes-based Deblocing framework in purely frequency domain that beats all the previous SOTA algorithms.
 
 ---
 

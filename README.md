@@ -95,7 +95,7 @@
 ### 🧠 Patents & IP
 | ID / Ref | Title | Area | Status |
 |:--------:|:------|:-----|:------:|
-| ⟦To be Filed⟧ | **Dynamic Inter-Prediction for 3D Gaussian Splatting** | 3DGS compression | Patent Pending |
+| ⟦To be Entered Later⟧ | **Dynamic Inter-Prediction for 3D Gaussian Splatting** | 3DGS Inter-frame compression | Patent Pending |
 
 ---
 

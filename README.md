@@ -33,7 +33,7 @@
 
 <!-- Right-side GIFs -->
 <img align="right" src="https://miro.medium.com/1*TiXFKA-o06OwxJIg4LXt-A.gif" width="220" alt="InterGS demo 1">
-<img align="right" src="https://miro.medium.com/1*TiXFKA-o06OwxJIg4LXt-A.gif" width="220" alt="InterGS demo 1">                                                                                                                                                                                                                                                              
+<img align="right" src="https://www.kitware.com/main/wp-content/uploads/2021/05/centerpoint_extract_small.gif" width="220" alt="InterGS demo 1">                                                                                                                                                                                                                                                              
 <img align="right" src="./assets/demo3.gif" width="220" alt="InterGS demo 3">
 
 ---

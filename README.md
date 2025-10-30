@@ -102,14 +102,9 @@
 ### 🔬 Research Projects
 > Pin these three (Customize Profile → Pinned).
 
-#### 🟦 InterGS-VQ
-Vector-quantization for SH coefficients, per-group bit budgets, multi-frame chaining (I + P). Includes RD scripts, predictor traces, and codebook dumps.
-
-#### 🟩 CompGS++ Comparisons
-Baseline parity, BD-Rate utility, plotting kit; geometry caching and consistent PSNR evaluation across rate points (r01–r05/06).
-
+#### 🟦 InterGS-Lite - Light Weight Dynamic GS coding with Vector Quantization of Prediction Residuals
+#### 🟩 InerGS - Inter-Predictive Coding of Gaussian Splatting Sequences.
 #### 🟨 Meta Hacker Cup 2025 — Round_1 (Python)
-Clean I/O (`Case #x:`), sample harness, concise write-ups.
 
 ---
 

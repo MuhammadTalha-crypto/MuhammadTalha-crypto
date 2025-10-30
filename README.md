@@ -126,7 +126,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,cmake,git,github,linux,ubuntu,bash,vscode,neovim,docker&perline=12" height="32" alt="Core stack">
   <br/>
   <!-- Row 2: ML / Vision -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,scipy,pandas,matplotlib,jupyter,latex&perline=12" height="32" alt="ML & Vision">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,latex&perline=12" height="32" alt="ML & Vision">
   <br/>
   <!-- Row 3: Infra / Cloud -->
   <img src="https://skillicons.dev/icons?i=nvidia,githubactions,aws,gcp,cloudflare&perline=12" height="32" alt="Infra">

@@ -95,7 +95,7 @@
 ### 🧠 Patents & IP
 | ID / Ref | Title | Area | Status |
 |:--------:|:------|:-----|:------:|
-| ⟦To be Entered Later⟧ | **Dynamic Inter-Prediction for 3D Gaussian Splatting** | 3DGS Inter-frame compression | Patent Pending |
+| ⟦To be Entered Later⟧ | **InterGS: Dynamic Inter-Prediction for 3D Gaussian Splatting** | 3DGS Inter-frame compression | Patent Pending |
 <img align="center" src="./render_-ezgif.com-video-to-gif-converter.gif" width="1024" alt="InterGS demo 1">
 ---
 

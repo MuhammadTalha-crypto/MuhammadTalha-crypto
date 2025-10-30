@@ -152,12 +152,12 @@
 ### 📫 Contact
 <p align="center">
   <!-- Email -->
-  <a href="mailto:YOUR_EMAIL" title="Email">
+  <a href="mailto:mtgcf@umsystem.edu" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" height="34" alt="Email">
   </a>&nbsp;&nbsp;
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR_ID" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/engrtm/" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="34" alt="LinkedIn">
   </a>&nbsp;&nbsp;
 
@@ -167,12 +167,12 @@
   </a>&nbsp;&nbsp;
 
   <!-- Google Scholar (Simple Icons CDN, brand blue) -->
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" title="Google Scholar">
+  <a href="https://scholar.google.com/citations?user=RHI_14gAAAAJ&hl=en" title="Google Scholar">
     <img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="34" alt="Google Scholar">
   </a>&nbsp;&nbsp;
 
   <!-- ORCID (Simple Icons CDN, brand green) -->
-  <a href="https://orcid.org/0000-0000-0000-0000" title="ORCID">
+  <a href="https://orcid.org/0009-0005-9389-8052" title="ORCID">
     <img src="https://cdn.simpleicons.org/orcid/A6CE39" height="34" alt="ORCID">
   </a>
 </p>

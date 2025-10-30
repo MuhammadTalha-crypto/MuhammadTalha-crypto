@@ -59,10 +59,12 @@
 
 ---
 ### 🎯 Research Focus
-- **Temporal prediction for 3DGS**: per-Gaussian inter-frame predictors and mode selection streams.  
-- **Quantization**: VQ for SH_DC/SH_AC (PCA/whitening, K-means), scalar baselines.  
+- **Temporal prediction for 3DGS**: inter-Frame Prediction Framework for AR/VR applications. 
+- **Intra-frame Coding** for 3D Gaussian Splatting Sequences.  
+- **Quantization**: Vector Quantization, Learned Codebooks for efficient compresison of SH channel of 3DGS.
 - **Geometry & entropy**: GPCC geometry, LZMA/7-Zip, per-group bit allocation.  
-- **Evaluation**: BD-Rate vs baselines, PSNR stability across frames, ms/gaussian → FPS.
+- **3D Point Clouds**: Denoising, Deblocking as a post-processing framework to remove  coding induced artifacts.
+- **Graph Fourier Transform**: Signal Processing, Singal projection in Frequency domain for efficient multi-scale deblocking framework.   
 
 ---
 

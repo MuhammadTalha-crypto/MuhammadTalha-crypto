@@ -58,7 +58,7 @@
 </table>
 
 ---
-### 🎯 Research Focus
+### 🎯 PhD Research Focus
 - **Temporal prediction for 3DGS**: inter-Frame Prediction Framework for AR/VR applications. 
 - **Intra-frame Coding** for 3D Gaussian Splatting Sequences.  
 - **Quantization**: Vector Quantization, Learned Codebooks for efficient compresison of SH channel of 3DGS.

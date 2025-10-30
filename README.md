@@ -95,8 +95,7 @@
 ### 🧠 Patents & IP
 | ID / Ref | Title | Area | Status |
 |:--------:|:------|:-----|:------:|
-| ⟦IDF 2507738⟧ | **Dynamic Inter-Prediction for 3D Gaussian Splatting** | 3DGS compression | filed / pending |
-| ⟦IDF …⟧ | **Per-Group VQ for SH/DC+AC with Predictor Choice Streams** | quantization | drafting |
+| ⟦To be Filed⟧ | **Dynamic Inter-Prediction for 3D Gaussian Splatting** | 3DGS compression | Patent Pending |
 
 ---
 

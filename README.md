@@ -46,7 +46,7 @@
     </td>
     <td width="260" align="right">
 
-<img align="right" src="https://i.pinimg.com/originals/26/7b/5f/267b5f806c7eec3d72058a597a06adb1.gif" width="220" alt="InterGS demo 1">
+<img align="right" src="https://cdn.prod.website-files.com/62ce5d829e01c60b7c148396/66f38e6b9b32738d8412b5f9_teams-3dgs.gif" width="220" alt="InterGS demo 1">
 <br clear="right">
 <img align="right" src="https://aniqueakhtar.github.io/Figures/Geometry_prediction.gif" width="220" alt="InterGS demo 1">   
 <br clear="right">

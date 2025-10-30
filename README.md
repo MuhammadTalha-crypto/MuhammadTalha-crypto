@@ -149,6 +149,7 @@
 - **Decode performance**: ms/gaussian + FPS targets per sequence.  
 - **Artifacts**: quant configs, codebook dumps, predictor-choice streams, geometry bytes.
 
+<img align="center" src="./results.png" width="1024" alt="InterGS demo 1">
 ---
 
 ### 📫 Contact

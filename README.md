@@ -5,7 +5,7 @@
 
 <h1 align="center">Muhammad Talha</h1>
 <p align="center">
-  <b>PhD @ UMKC</b> · 3D Gaussian Splatting • Compression • ML Systems · Qualcomm R&D (’25)
+  <b>PhD @ UMKC</b> · 3D Gaussian Splatting • 3D Point Clouds • Denoising/Deblocking • Graph Signal Processing • Compression • Ex-Intern Qualcomm R&D (’25)
 </p>
 
 <p align="center">

@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="assets/banner.png" alt="Muhammad Talha — 3DGS • Compression • ML Systems" width="100%" />
+  "Muhammad Talha — 3DGS • Point Cloud Compression • 3D Point Cloud Deblocking/Denoising • AR/VR • ML Systems"
+  <!-- <img src="assets/banner.png" alt="Muhammad Talha — 3DGS • Compression • ML Systems" width="100%" /> -->
 </p>
 
 <h1 align="center">Muhammad Talha</h1>

@@ -148,7 +148,9 @@
 - **RD curves**: BD-Rate/PSNR with matched rate points.  
 - **Decode performance**: ms/gaussian + FPS targets per sequence.  
 - **Artifacts**: quant configs, codebook dumps, predictor-choice streams, geometry bytes.
+---
 
+### 📊 InterGS Results
 <img align="center" src="./results.png" width="1024" alt="InterGS demo 1">
 ---
 

@@ -96,6 +96,8 @@
 | ID / Ref | Title | Area | Status |
 |:--------:|:------|:-----|:------:|
 | ⟦To be Entered Later⟧ | **InterGS: Dynamic Inter-Prediction for 3D Gaussian Splatting** | 3DGS Inter-frame compression | Patent Pending |
+
+### 🧠 Rendered View Point After Decoding using InterGS 
 <img align="center" src="./render_-ezgif.com-video-to-gif-converter.gif" width="1024" alt="InterGS demo 1">
 ---
 

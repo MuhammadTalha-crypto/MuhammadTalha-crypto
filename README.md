@@ -114,9 +114,13 @@ Clean I/O (`Case #x:`), sample harness, concise write-ups.
 ---
 
 ### 🏆 Awards & Achievements
-- **Meta Hacker Cup 2025** participant (Round 1 solutions public).  
+- **Meta Hacker Cup 2025** participant (Round 1 solutions public - On-going).  
 - **Qualcomm Multimedia R&D** (’25): inter-prediction for 3DGS (patent-pending).  
-- **VCIP 2025** paper accepted; **DCC 2026** extension in progress.
+- **Google Jam 2023**: Highest ranked over Pakistani Leaderboard.
+- **Advent of Code 2022**: Top 6th on Pakistani Leaderboard.
+- Won Research **Funding on National level** from IT Ministry, Pakistan.
+- Secured **merit-based fully funded scholarship** in Undergrad.
+- Solved over 250 Coding questions on **Leetcode**.
 
 ---
 

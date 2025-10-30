@@ -46,7 +46,7 @@
     </td>
     <td width="260" align="right">
 
-<img align="right" src="https://i.pinimg.com/originals/26/7b/5f/267b5f806c7eec3d72058a597a06adb1.gif" width="220" alt="InterGS demo 1">
+<img align="right" src="https://alphapixel.net/wp-content/uploads/2025/04/GaussianSplatRender.gif" width="220" alt="InterGS demo 1">
 <br clear="right">
 <img align="right" src="https://aniqueakhtar.github.io/Figures/Geometry_prediction.gif" width="220" alt="InterGS demo 1">   
 <br clear="right">

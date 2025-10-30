@@ -53,7 +53,7 @@
 <img align="right" src="https://i.pinimg.com/originals/26/7b/5f/267b5f806c7eec3d72058a597a06adb1.gif" width="220" alt="InterGS demo 3">
 <br clear="right">
 
-    </td>
+</td>
   </tr>
 </table>
 

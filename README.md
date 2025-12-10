@@ -75,7 +75,7 @@
 
 | Year | Venue | Title | Status | Links |
 |-----:|:-----:|:------|:------:|:------|
-| 2026 | DCC | **InterGS-Lite: Light Weight Dynamic GS coding with Vector Quantization of Prediction Residuals** | Under Review | ⟦draft⟧ |
+| 2026 | DCC | **InterGS-Lite: Light Weight Dynamic GS coding with Vector Quantization of Prediction Residuals** | accepted | ⟦draft⟧ |
 | 2026 | TIP | **Channel-wise Transformer-based Hierarchical Feature Fusion for Point Cloud Attribute Compression Artifact Mitigation** | Under Review | ⟦draft⟧ |
 | 2025 | VCIP | **InterGS: Inter-Frame Prediction for Dynamic 3D Gaussian Splatting** | accepted | ⟦PDF⟧ ⟦Poster⟧ |
 | 2025 | ICIP | **J-SGFT: Joint spatial and graph fourier domain learning for point cloud attribute deblocking** | accepted | ⟦PDF⟧ ⟦Poster⟧ |

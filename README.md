@@ -75,13 +75,15 @@
 
 | Year | Venue | Title | Status | Links |
 |-----:|:-----:|:------|:------:|:------|
+| 2027 | DCC | **InterGS-Lite: Light Weight Dynamic GS coding with Vector Quantization of Prediction Residuals** | accepted | ⟦draft⟧ |
+| 2026 | ASILOMAR | **SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming** | accepted | ⟦draft⟧ |
 | 2026 | DCC | **InterGS-Lite: Light Weight Dynamic GS coding with Vector Quantization of Prediction Residuals** | accepted | ⟦draft⟧ |
 | 2026 | TIP | **Channel-wise Transformer-based Hierarchical Feature Fusion for Point Cloud Attribute Compression Artifact Mitigation** | Under Review | ⟦draft⟧ |
-| 2025 | VCIP | **InterGS: Inter-Frame Prediction for Dynamic 3D Gaussian Splatting** | accepted | ⟦PDF⟧ ⟦Poster⟧ |
-| 2025 | ICIP | **J-SGFT: Joint spatial and graph fourier domain learning for point cloud attribute deblocking** | accepted | ⟦PDF⟧ ⟦Poster⟧ |
+| 2025 | VCIP | **InterGS: Inter-Frame Prediction for Dynamic 3D Gaussian Splatting** | accepted | ⟦PDF⟧ ⟦Paper⟧ |
+| 2025 | ICIP | **J-SGFT: Joint spatial and graph fourier domain learning for point cloud attribute deblocking** | accepted | ⟦PDF⟧ ⟦Paper⟧ |
 | 2024 | DCC | **MUSCON: Multi-scale SparseConv Learning for Point Deblocking** | accepted | ⟦PDF⟧ ⟦Poster⟧ |
-| 2024 | MMSP | **Sparse Convolution Based Point Cloud Attributes Deblocking with Graph Fourier Latent Representation** | accepted | ⟦PDF⟧ ⟦Poster⟧ |
-| 2024 | Artificial Intelligence and Fuzzy Logic System 2024 | **Yolov5, yolo-x, yolo-r, yolov7 performance comparison: A survey** | accepted | ⟦PDF⟧ ⟦Poster⟧ |
+| 2024 | MMSP | **Sparse Convolution Based Point Cloud Attributes Deblocking with Graph Fourier Latent Representation** | accepted | ⟦PDF⟧ ⟦Paper⟧ |
+| 2024 | Artificial Intelligence and Fuzzy Logic System 2024 | **Yolov5, yolo-x, yolo-r, yolov7 performance comparison: A survey** | accepted | ⟦PDF⟧ ⟦Paper⟧ |
 
 
 <details>

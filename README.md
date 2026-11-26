@@ -75,7 +75,7 @@
 
 | Year | Venue | Title | Status | Links |
 |-----:|:-----:|:------|:------:|:------|
-| 2027 | DCC | **InterGS-Lite: Light Weight Dynamic GS coding with Vector Quantization of Prediction Residuals** | accepted | ⟦draft⟧ |
+| 2027 | DCC | **InterGS+: Inter-Frame Gaussian Splatting Compression with Geometry-Aware Transformer Prediction and Adaptive Residual Coding** | accepted | ⟦draft⟧ |
 | 2026 | ASILOMAR | **SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming** | accepted | ⟦draft⟧ |
 | 2026 | DCC | **InterGS-Lite: Light Weight Dynamic GS coding with Vector Quantization of Prediction Residuals** | accepted | ⟦draft⟧ |
 | 2026 | TIP | **Channel-wise Transformer-based Hierarchical Feature Fusion for Point Cloud Attribute Compression Artifact Mitigation** | Under Review | ⟦draft⟧ |
